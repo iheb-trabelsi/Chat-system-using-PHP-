@@ -14,7 +14,7 @@ A real-time chat application with the following features:
 
 ## Installation
 1. Clone this repository
-2. Set up your web server (Apache/Nginx)
+2. Set up a PHP server (XAMPP/MAMP/WAMP)
 3. Configure database settings in `database.php`
 4. Run the SQL schema to create tables
 5. Access the application in your browser
