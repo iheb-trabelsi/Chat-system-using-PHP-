@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost:3307';
+$host = 'localhost';
 $dbname = 'chatapp';
 $username = 'root';
 $password = '';
